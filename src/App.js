@@ -1,11 +1,11 @@
-
+import Home from "./pages/Home"
 
 function App() {
   return (
     <div className="App">
-    <h1 className="mt-5 ml-5">Hey I am a react app here</h1>
+      <Home />
     </div>
   );
 }
 
-export default App;
+export default App

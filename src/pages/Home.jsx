@@ -1,14 +1,12 @@
-import React from "react";
-import Announce from "../components/Announce";
-import Navbar from "../components/Navbar";
+import React from 'react'
+import Announce from '../components/Announce'
 
 function Home() {
     return (
         <div>
-        <Announce />
-        <Navbar />
-        </div>
-    );
+            <Announce />
+        </div> 
+    )
 }
 
-export default Home;
+export default Home
