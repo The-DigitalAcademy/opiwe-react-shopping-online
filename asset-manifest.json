@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/opiwe-react-shopping-online/static/css/main.7e0d4599.css",
-    "main.js": "/opiwe-react-shopping-online/static/js/main.df189887.js",
+    "main.css": "/opiwe-react-shopping-online/static/css/main.d021409c.css",
+    "main.js": "/opiwe-react-shopping-online/static/js/main.3900fd8a.js",
     "index.html": "/opiwe-react-shopping-online/index.html",
-    "main.7e0d4599.css.map": "/opiwe-react-shopping-online/static/css/main.7e0d4599.css.map",
-    "main.df189887.js.map": "/opiwe-react-shopping-online/static/js/main.df189887.js.map"
+    "main.d021409c.css.map": "/opiwe-react-shopping-online/static/css/main.d021409c.css.map",
+    "main.3900fd8a.js.map": "/opiwe-react-shopping-online/static/js/main.3900fd8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e0d4599.css",
-    "static/js/main.df189887.js"
+    "static/css/main.d021409c.css",
+    "static/js/main.3900fd8a.js"
   ]
 }
